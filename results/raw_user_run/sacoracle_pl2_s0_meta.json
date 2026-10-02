@@ -1,0 +1,8 @@
+{
+  "name": "sacoracle_pl2_s0", "algo": "sac", "env": "cartpole",
+  "context": {"pole_len": 2.0}, "dr": false, "steps": 275000, "seed": 0,
+  "final_eval": {"mean_return": 315.3, "std_return": 34.21, "mean_len": 315.3,
+                  "fail_rate": 1.0, "episodes": 10},
+  "extra_steps_for_convergence": 150000, "converged": false,
+  "note": "fail_rate 1.0: every eval episode drops the pole (~315 steps). Meta wall_time/fps fields reflect only one training chunk (bookkeeping quirk); steps/eval fields are authoritative."
+}

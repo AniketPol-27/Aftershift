@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+*.zip
+*.pkl
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (the compiled report PDF IS tracked)
+paper/latex/*.aux
+paper/latex/*.bbl
+paper/latex/*.blg
+paper/latex/*.log
+paper/latex/*.out
+paper/latex/*.synctex.gz
+paper/

@@ -1,0 +1,5 @@
+model,param,shift_to,t_shift,episodes,detect_rate,fail_rate,prefail_detect_rate,median_lead,iqr_lead,n_leads,n_survived
+sac_s0,force_mag,5.0,100,100,0.77,0.0,,,,0,100
+sac_s0,masscart,3.0,100,100,1.0,0.0,,,,0,100
+sac_s0,cart_friction,2.0,100,100,0.15,0.0,,,,0,100
+sac_s0,pole_len,2.0,100,100,1.0,0.52,1.0,202.5,160.25,52,48
