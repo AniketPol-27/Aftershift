@@ -77,6 +77,7 @@ are idempotent, so interrupted runs can be resumed without duplicating rows.
   title  = {AFTERSHIFT: A Benchmark and Evaluation Protocol for
             Post-Deployment Dynamics Shifts in Continuous Control},
   author = {Pol, Aniket and Kaur, Jasnoor},
+  url    = {https://github.com/AniketPol-27/Aftershift},
   year   = {2026}
 }
 ```
